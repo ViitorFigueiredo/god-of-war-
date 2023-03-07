@@ -1,0 +1,11 @@
+.s-hero .left-container .text  {
+    width: 100%;
+}
+
+.s-hero .left-container .text h2 {
+    color: blue;
+}
+
+.s-hero .left-container .text h2 span {
+    color: red;
+}
